@@ -123,7 +123,3 @@ src/
 npm start
 npm test
 ```
-
-## 📞 Soporte
-
-contacto@tuempresa.com
